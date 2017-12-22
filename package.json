@@ -12,7 +12,9 @@
     "engines": {
         "vscode": "^1.6.0"
     },
-    "categories": ["Themes"],
+    "categories": [
+        "Themes"
+    ],
     "keywords": [
         "lilac",
         "purple",
@@ -22,6 +24,10 @@
         "vibrant"
     ],
     "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexnho/vscode-a-touch-of-lilac-theme"
+    },
     "contributes": {
         "themes": [
             {
