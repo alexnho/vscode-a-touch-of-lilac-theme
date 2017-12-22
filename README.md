@@ -3,6 +3,16 @@ A touch of Lilac is a vibrant theme with a UI that takes you through the differe
 
 ## Screenshots
 
+### Workbench
+
+### HTML
+
+
+### SCSS
+
+
+### JS
+
 
 ## Support
 It was developed mostly with JavaScript, HTML and CSS/SCSS in mind but there is a big chance that it will look nice for other languages too. Just give it a try and if needed with minimal tweaks it might look great for other languages also.
