@@ -73,3 +73,6 @@ Of course there is the possibility that some things for this theme aren't optimi
 
 I hope you'll enjoy the theme. Thanks!
 
+## Contributors:
+I would like to say a big **Thank you!** to all of the following:
+- [samrichca](https://github.com/samrichca) - Added support for Markdown
