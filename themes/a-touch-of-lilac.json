@@ -75,12 +75,12 @@
         "editorOverviewRuler.modifiedForeground": "#940c49",
         "editorOverviewRuler.addedForeground": "#940c49",
         "editorOverviewRuler.deletedForeground": "#940c49",
-        "editorOverviewRuler.errorForeground": "#6d0132",
-        "editorOverviewRuler.warningForeground": "#6d0132",
-        "editorOverviewRuler.infoForeground": "#6d0132",
-        "editorError.foreground": "#6d0132",
-        "editorWarning.foreground": "#6d0132",
-        "editorInfo.foreground": "#6d0132",
+        "editorOverviewRuler.errorForeground": "#ff0033",
+        "editorOverviewRuler.warningForeground": "#ffae1a",
+        "editorOverviewRuler.infoForeground": "#f3d681",
+        "editorError.foreground": "#ff0033",
+        "editorWarning.foreground": "#ffae1a",
+        "editorInfo.foreground": "#f3d681",
         "editorGutter.background": "#211429",
         "editorGutter.modifiedBackground": "#940c49",
         "editorGutter.addedBackground": "#940c49",
@@ -140,7 +140,7 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#4C566A",
+                "foreground": "#008100",
                 "fontStyle": "bold italic"
             }
         },
@@ -350,7 +350,7 @@
             "scope": "support.class",
             "settings": {
                 "fontStyle": " italic",
-                "foreground": "#00ffb3"
+                "foreground": "#008100"
             }
         },
         {
@@ -440,7 +440,7 @@
         {
             "scope": "message.error",
             "settings": {
-                "foreground": "#bd1c14"
+                "foreground": "#ff0033"
             }
         },
         {
