@@ -1,7 +1,7 @@
 {
     "name": "a-touch-of-lilac-theme",
     "displayName": "A Touch of Lilac Theme",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "Lilac tinted color UI theme with vibrant syntax highlighting colors for Visual Studio Code",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
