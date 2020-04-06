@@ -140,7 +140,7 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#008100",
+                "foreground": "#8091B3",
                 "fontStyle": "bold italic"
             }
         },
