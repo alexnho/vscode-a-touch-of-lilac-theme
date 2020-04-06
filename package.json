@@ -1,10 +1,10 @@
 {
     "name": "a-touch-of-lilac-theme",
     "displayName": "A Touch of Lilac Theme",
-    "version": "1.1.0",
-    "description": "Lilac tinted color UI theme with vibrant syntax highlighting colors for Visual Studio Code",
+    "version": "1.2.0",
+    "description": "Lilac tinted color UI theme with vibrant syntax highlighting colors for Visual Studio Code. It also has a No-Italics version.",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "vsce:publish": "vsce publish"
     },
     "author": "alexnho",
     "license": "See LICENSE file",
@@ -33,6 +33,11 @@
                 "label": "A Touch of Lilac Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/a-touch-of-lilac.json"
+            },
+            {
+                "label": "A Touch of Lilac Theme (No Italics)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/a-touch-of-lilac-no-italics.json"
             }
         ]
     }

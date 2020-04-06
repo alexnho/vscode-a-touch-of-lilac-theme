@@ -1,5 +1,5 @@
 {
-    "name": "A Touch of Lilac",
+    "name": "A Touch of Lilac Theme (No Italics)",
     "type": "dark",
     "colors": {
         "button.background": "#4F2E63",
@@ -141,7 +141,7 @@
             "scope": "comment",
             "settings": {
                 "foreground": "#008100",
-                "fontStyle": "bold italic"
+                "fontStyle": "bold"
             }
         },
         {
@@ -185,11 +185,10 @@
             }
         },
         {
-            "name": "Variable name",
-            "scope": "entity.name.variable",
+            "name": "Variable",
+            "scope": "variable",
             "settings": {
-                "fontStyle": "",
-                "foreground": "#ff4"
+                "fontStyle": ""
             }
         },
         {
@@ -246,31 +245,27 @@
             "name": "Function name",
             "scope": "entity.name.function",
             "settings": {
-                "foreground": "#b4df51",
-                "fontStyle": "italic"
+                "foreground": "#b4df51"
             }
         },
         {
             "name": "Method name",
             "scope": "entity.name.method",
             "settings": {
-                "foreground": "#b4df51",
-                "fontStyle": "italic"
+                "foreground": "#b4df51"
             }
         },
         {
             "name": "Class name",
             "scope": "entity.name.class",
             "settings": {
-                "foreground": "#b4df51",
-                "fontStyle": "italic"
+                "foreground": "#b4df51"
             }
         },
         {
             "name": "Variable parameter",
             "scope": "variable.parameter",
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#cdfcff"
             }
         },
@@ -286,7 +281,6 @@
             "name": "Variable other",
             "scope": "variable.other",
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#cdfcff"
             }
         },
@@ -294,8 +288,7 @@
             "name": "Tag name",
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#b4df51",
-                "fontStyle": "italic"
+                "foreground": "#b4df51"
             }
         },
         {
@@ -333,7 +326,6 @@
             "name": "Library class",
             "scope": "support.type",
             "settings": {
-                "fontStyle": " italic",
                 "foreground": "#0aacc5"
             }
         },
@@ -349,7 +341,6 @@
             "name": "Constructor Classes",
             "scope": "support.class",
             "settings": {
-                "fontStyle": " italic",
                 "foreground": "#b4df51"
             }
         },
@@ -401,7 +392,6 @@
             "name": "Reset JavaScript string interpolation expression",
             "scope": "meta.template.expression",
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#cdfcff"
             }
         },
@@ -475,8 +465,7 @@
             ],
             "settings": {
                 "foreground": "#b4df51",
-                "border": "#35ba66",
-                "fontStyle": "italic"
+                "border": "#35ba66"
             }
         },
         {
@@ -520,7 +509,6 @@
                 "markup.italic"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#e15d97"
             }
         },
@@ -546,7 +534,6 @@
                 "markup.quote markup.bold string"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#fab6e3"
             }
         },
@@ -575,7 +562,6 @@
                 "markup.quote"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#CFCFC2"
             }
         },

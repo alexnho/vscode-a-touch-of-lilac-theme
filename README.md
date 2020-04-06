@@ -1,5 +1,6 @@
 ## Description
 A touch of Lilac is a vibrant theme with a UI that takes you through the different color shades of the lilac flowers.
+It also has a No-Italics version.
 
 ## Screenshots
 
@@ -26,7 +27,7 @@ It was developed mostly with JavaScript, HTML and CSS/SCSS in mind but there is 
 5. When the Reload appears, just click on it in order to reload the editor.
 
 ## Theme activation
-VSCode → File → Preferences → Color Theme → Select "A Touch of Lilac Theme"
+VSCode → File → Preferences → Color Theme → Select "A Touch of Lilac Theme"/"A Touch of Lilac Theme (No Italics)"
 
 ## Font
 The font that I use and that can be seen in the screenshots is [Courier Prime Code](https://quoteunquoteapps.com/courierprime/#code-sans) a great font that is code-optimized for programmers.
