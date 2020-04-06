@@ -255,18 +255,10 @@
             }
         },
         {
-            "name": "Class name",
-            "scope": "entity.name.class",
-            "settings": {
-                "fontStyle": "underline",
-                "foreground": "#35ba66"
-            }
-        },
-        {
             "name": "Inherited class",
             "scope": "entity.other.inherited-class",
             "settings": {
-                "foreground": "#35ba66"
+                "foreground": "#b4df51"
             }
         },
         {
