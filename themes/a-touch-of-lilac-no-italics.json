@@ -145,6 +145,34 @@
             }
         },
         {
+            "name": "Comment storage type",
+            "scope": [
+                "comment storage.type"
+            ],
+            "settings": {
+                "foreground": "#b2bdd1"
+            }
+        },
+        {
+            "name": "Comment entity name type",
+            "scope": [
+                "comment entity.name.type"
+            ],
+            "settings": {
+                "foreground": "#ccd3e0"
+            }
+        },
+        {
+            "name": "Comment variable other",
+            "scope": [
+                "comment variable.other"
+            ],
+            "settings": {
+                "foreground": "#99a7c2",
+                "fontStyle": "underline normal"
+            }
+        },
+        {
             "name": "String",
             "scope": "string",
             "settings": {
