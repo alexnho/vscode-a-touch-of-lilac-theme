@@ -1,20 +1,38 @@
 ## Description
 A touch of Lilac is a vibrant theme with a UI that takes you through the different color shades of the lilac flowers.
-It also has a No-Italics version.
+There is also a No-Italics version for people that prefer it, so just switch between the two themes and use the one you like most.
 
 ## Screenshots
 
 ### Workbench
-![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/workbench.png)
+![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/workbench.jpg)
+
+### Workbench - No italics
+![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/workbench_no_italics.jpg)
 
 ### HTML
-![Theme HTML screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/html.png)
+![Theme HTML screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/html.jpg)
+
+### HTML - No italics
+![Theme HTML screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/html_no_italics.jpg)
 
 ### SCSS
-![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/scss.png)
+![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/scss.jpg)
+
+### SCSS - No italics
+![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/scss_no_italics.jpg)
 
 ### JS
-![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/JS.png)
+![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/js.jpg)
+
+### JS - No italics
+![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/js_no_italics.jpg)
+
+### Comments
+![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/comments.jpg)
+
+### Search & errors highlight
+![Theme Workbench screenshot](https://raw.githubusercontent.com/alexnho/vscode-a-touch-of-lilac-theme/master/images/search_errors_highlight.jpg)
 
 ## Support
 It was developed mostly with JavaScript, HTML and CSS/SCSS in mind but there is a big chance that it will look nice for other languages too. Just give it a try and if needed with minimal tweaks it might look great for other languages also.
